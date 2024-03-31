@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/1087411?v=4"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
