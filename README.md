@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <a href=" mailto:sanya.davyskiba@gmail.com?subject=Message%20from%20github&body=Hi%20there " target="_blank">
+  <a href="mai&#108;&#116;&#111;&#58;&#37;73a%6&#69;ya&#46;&#100;&#97;%7&#54;&#121;sk%&#54;9ba&#64;gma&#37;&#54;9l&#46;&#37;63om?subject=Message%20from%20github&body=Hi%20there" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/zviryatko/" target="_blank">
